@@ -9,7 +9,7 @@ A única coisa que nós fizemos por você neste nível foi o alinhamento. Você 
 ## Fontes
 Para as tags body e html, você pode utilizar as seguintes fontes: `'Lato'`, `'Helvetica'` e `'Arial'`, juntamente com o `sans-serif` por padrão. Exemplo: `<nome-fonte>, **sans-serif**`
 
-Para os títulos você pode utilizar qualquer uma dessas fontes `'Rokkitt'`, `'Helvetica'`, `'Arial'`, e `sans-serif`.
+Para os títulos você pode utilizar qualquer uma dessas fontes `''`, `'Helvetica'`, `'Arial'`, e `sans-serif`.
 
 ## Cores
 As seguintes cores serão usadas pelo documento para texto e fundos:
